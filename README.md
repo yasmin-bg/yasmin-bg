@@ -4,8 +4,6 @@
 
 Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, omde também finalizei o curso técnico em Manutenção e Suporte em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB.
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -25,22 +23,16 @@ Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, omde também fina
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -51,20 +43,20 @@ Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, omde também fina
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="CSS" 
+    title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
