@@ -2,7 +2,7 @@
 
 **`Graduanda em ADS no IFPB`**
 
-Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, omde também finalizei o curso técnico em Manutenção e Suporte em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB.
+Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, onde também finalizei o curso técnico em Manutenção e Suporte em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB.
 
 ### 🤖 Linguagens e Tecnologias
 
