@@ -26,15 +26,6 @@ Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, onde também fina
 
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -76,6 +67,15 @@ Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, onde também fina
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 <br/>
 <br/>
