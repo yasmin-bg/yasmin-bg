@@ -75,7 +75,7 @@ Olá! Sou Yasmin. Concluí o ensino médio completo pelo IFPB, onde também fina
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" 
 />
 <br/>
 <br/>
